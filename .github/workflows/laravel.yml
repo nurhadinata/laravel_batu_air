@@ -20,4 +20,4 @@ jobs:
         port: 22
         script: |
           cd /var/www/be
-          sudo git pull https://lamkhil:${{ secrets.TOKEN }}@github.com/lamkhil/laravel_batu_air.git
+          sudo git pull https://nurhadinata:${{ secrets.TOKEN }}@github.com/nurhadinata/laravel_batu_air.git
